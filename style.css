@@ -90,6 +90,7 @@ h1 {
   letter-spacing: -0.04em;
   margin: 0;
 }
+h1 .cn { font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", "Hiragino Sans GB", sans-serif; font-size: 0.38em; font-weight: 500; letter-spacing: 0.04em; margin-left: 0.35em; white-space: nowrap; }
 .thesis {
   font-family: var(--font-display);
   font-weight: 500;
